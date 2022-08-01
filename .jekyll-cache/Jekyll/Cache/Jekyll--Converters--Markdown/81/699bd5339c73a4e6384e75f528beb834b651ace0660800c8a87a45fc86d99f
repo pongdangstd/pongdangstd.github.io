@@ -1,0 +1,29 @@
+I"ö<p>Mauris velit metus, tempor gravida nulla eget, auctor accumsan tellus. Curabitur volutpat sed dolor quis tempus. In scelerisque aliquam felis at tincidunt. Proin non augue fringilla, <a href="#">pretium justo vitae</a>, maximus dui. Nunc ipsum nisi, fermentum sit amet volutpat cursus, sodales ac nisl. Quisque nec tellus sem. Cras pharetra felis non quam mollis, nec efficitur lectus aliquet. Maecenas ipsum felis, eleifend nec <a href="#">semper venenatis</a>, consequat ut nunc. Donec est augue, facilisis quis placerat sed, imperdiet sit amet neque. Maecenas nec risus metus. Nunc non condimentum ipsum. Phasellus consectetur dapibus massa, convallis iaculis nisi vestibulum id. Phasellus et fringilla augue. Donec consequat dui ut rutrum elementum. Aenean nisi arcu, ornare eu lacus vel, faucibus tempor tortor.</p>
+
+<div class="image-container">
+  <a href="http://www.gratisography.com" target="_blank">
+    <img src="/assets/img/projects/proj-1/dog.jpg" alt="Avatar" class="image" />
+    <div class="overlay">
+      <div class="text">
+        
+          View Demo <i class="fa fa-arrow-right" aria-hidden="true"></i>
+        
+      </div>
+    </div>
+  </a>
+</div>
+
+<div class="image-container">
+  <a href="http://www.gratisography.com" target="_blank">
+    <img src="/assets/img/projects/proj-1/wall.jpg" alt="Avatar" class="image" />
+    <div class="overlay">
+      <div class="text">
+        
+          View Demo <i class="fa fa-arrow-right" aria-hidden="true"></i>
+        
+      </div>
+    </div>
+  </a>
+</div>
+
+:ET
