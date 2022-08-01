@@ -7,6 +7,6 @@ plugins:   [jekyll-sitemap, jekyll-feed,  jekyll-seo-tag]
 
 # Customise atom feed settings (this is where Jekyll-Feed gets configuration information)
 
-title: "Portfolio for Pongdang Studio"
-description: "Powered by Pongdang and Jekyll and GitHub Pages"
+title: "Pongdang Studio"
+description: "Powered by Pongdang Studio"
 author:      "Ryu"
